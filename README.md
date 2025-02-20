@@ -24,7 +24,7 @@ This is a simple Product Display Web Page designed using HTML, CSS, and JavaScri
 # Files Included
 <ul>
   <li>index.html - Main HTML file with product listings.</li>
-  <li>styles.css - Styling for the website.</li>
+  <li>style.css - Styling for the website.</li>
   <li>script.js - JavaScript for interactive elements.</li>
   <li>img/ - Folder containing product images and logo.</li>
 </ul>
